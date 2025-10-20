@@ -35,13 +35,13 @@ python drug_target_checker.py
 3. Enter the drug name in the input box and click Check Target Proteins.
 4. View interacting proteins instantly.
 
-👨‍💻 How It Works
+## 👨‍💻 How It Works
 - Loads drug-target data from a CSV into a Python dictionary
 - User inputs a drug name
 - Script looks up proteins interacting with the drug
 - Displays results neatly in the GUI
 
-##⚡ Future Improvements
+## ⚡ Future Improvements
 - Auto-complete suggestions for drug names
 - Add web-based version using Streamlit
 - Expand database with more drugs and proteins
