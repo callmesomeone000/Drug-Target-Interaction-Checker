@@ -41,7 +41,7 @@ python drug_target_checker.py
 - Script looks up proteins interacting with the drug
 - Displays results neatly in the GUI
 
-⚡ Future Improvements
+##⚡ Future Improvements
 - Auto-complete suggestions for drug names
 - Add web-based version using Streamlit
 - Expand database with more drugs and proteins
